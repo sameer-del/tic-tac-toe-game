@@ -44,7 +44,7 @@ background: linear-gradient(175deg, rgba(17,14,9,1) 0%, rgba(45,56,74,1) 47%, rg
     
 }
 h1{
-    font-family: sameer;
+  font-family: sameer;
     font-size: 35px;
     
     text-transform: uppercase;
@@ -53,6 +53,7 @@ h1{
 h3{
     padding-top: 15px;
     letter-spacing: 3px;
+    font-family: sameer;
 }
 
 button {
